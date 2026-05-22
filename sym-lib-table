@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "A2M210") (type "KiCad") (uri "${KIPRJMOD}/A2M210.kicad_sym") (options "") (descr ""))
+)
